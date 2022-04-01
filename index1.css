@@ -1,0 +1,23 @@
+.main-box .header {
+    background-color:  #00acee;
+}
+.main-box .main{
+    background-color: lightgray;
+}
+.main-box .footer{
+    background-color:  #00acee;
+}
+/* .main-box .main .box{
+    background-color: grey;
+} */
+.main-box .main .box .box-1{
+    background-color:  #00acee;
+}
+.input-box{
+    background-color:grey; 
+   
+} 
+.ta {
+    background-color: grey;
+    height: 150px;
+}
